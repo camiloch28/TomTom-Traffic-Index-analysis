@@ -1,5 +1,9 @@
 # TomTom Traffic Index Analysis: Movilidad, Economía y Contaminación en Ciudades del Mundo
 
+# Como abrir el notebook en Google Colab
+Haz clic en el siguiente boton 
+https://colab.research.google.com/drive/1fAscoqny0lrTKnKZv0FSWK9BxkOMH3DJ?usp=sharing
+
 📌 ¿De qué trata este proyecto?
 
 Este proyecto analiza datos del TomTom Traffic Index, combinados con indicadores económicos y ambientales de distintas ciudades del mundo, para entender cómo se relacionan tres factores clave: la congestión del tráfico, la productividad económica (medida a través del PIB per cápita) y la calidad del aire (niveles de PM2.5).
