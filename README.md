@@ -1,4 +1,5 @@
 # TomTom Traffic Index Analysis: Movilidad, Economía y Contaminación en Ciudades del Mundo
+
 📌 ¿De qué trata este proyecto?
 
 Este proyecto analiza datos del TomTom Traffic Index, combinados con indicadores económicos y ambientales de distintas ciudades del mundo, para entender cómo se relacionan tres factores clave: la congestión del tráfico, la productividad económica (medida a través del PIB per cápita) y la calidad del aire (niveles de PM2.5).
